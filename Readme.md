@@ -6,6 +6,10 @@
 ## To run:
 
 ```sh
+pip install -r ./requirements.txt
+```
+
+```sh
 python ./train-model.py
 ```
 
